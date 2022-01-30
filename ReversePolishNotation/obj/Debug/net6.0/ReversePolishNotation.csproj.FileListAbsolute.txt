@@ -1,0 +1,15 @@
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/bin/Debug/net6.0/ReversePolishNotation
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/bin/Debug/net6.0/ReversePolishNotation.deps.json
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/bin/Debug/net6.0/ReversePolishNotation.runtimeconfig.json
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/bin/Debug/net6.0/ReversePolishNotation.dll
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/bin/Debug/net6.0/ref/ReversePolishNotation.dll
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/bin/Debug/net6.0/ReversePolishNotation.pdb
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.csproj.AssemblyReference.cache
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.AssemblyInfoInputs.cache
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.AssemblyInfo.cs
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.csproj.CoreCompileInputs.cache
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.dll
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ref/ReversePolishNotation.dll
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.pdb
+/Users/artur/Programming/MyProjects/ReversePolishNotation/ReversePolishNotation/obj/Debug/net6.0/ReversePolishNotation.genruntimeconfig.cache
